@@ -1,0 +1,3 @@
+This is the source code for the android application using our multiple CNN model, the main purpose is to recognise people's facial expression appeared on the image.
+The developping tool is Andriod Studio.
+I have tested this code on BLU Advance 5.5 HD cellphone which uses android 5.0 and recorded a video to show how to use this application on https://youtu.be/Si3vu8VMWjE
