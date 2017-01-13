@@ -39,7 +39,7 @@ public class MainActivity extends Activity {
     private Bitmap uploadbitmap;
     private String address = Environment.getExternalStorageDirectory() + "/FaceExpression/";;
     private String name = "";
-    private final String url = "http://192.168.2.34/Upload.php";// The address for processing the image
+    private final String url = "http://iguess.oicp.io/Upload.php";// The address for processing the image
     private String base = "I guess you are feeling ";
     private String []feelarray = {"Angry","Disgust","Fear","Happy","Sad","Surprise","Neutral"};
     @Override
